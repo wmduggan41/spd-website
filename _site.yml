@@ -1,0 +1,12 @@
+name: "spd-website"
+title: "Sean's Bachelor Party"
+description: |
+  Sean's Bachelor Party
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
