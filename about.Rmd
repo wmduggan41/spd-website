@@ -1,10 +1,15 @@
 ---
-title: "About this site"
+title: "Sean Patrick Duggan"
 description: |
-  Some additional details about the website
+  There will be some fun content added in this section, stay tuned!
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+![](images/bye.jpg)
+
+![](images/yo.gif)
 

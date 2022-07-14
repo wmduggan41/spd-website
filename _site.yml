@@ -1,12 +1,39 @@
-name: "spd-website"
+name: "website"
 title: "Sean's Bachelor Party"
+theme: theme.css
+author: "WM DUggan"
 description: |
   Sean's Bachelor Party
 output_dir: "docs"
 navbar:
-  right:
+  search: true
+  left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-info
       href: about.html
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Golf"
+        - text: "Kiawah"
+          href: https://kiawahresort.com/golf/
+        - text: "Ryder Cup Package"
+          href: https://kiawahresort.com/packages/golf/ryder-cup-package/
+        - text: "---------"
+        - text: "Nightlife"
+        - text: "The Commodore"
+          href: https://www.yelp.com/biz/the-commodore-charleston
+        - text: "Henry's Rooftop Deck"
+          href: https://www.yelp.com/biz/henrys-rooftop-deck-charleston
+        - text: "Prohibition"
+          href: https://www.yelp.com/biz/prohibition-charleston
+  right:
+    - text: "Lodging"
+      href: https://www.airbnb.com/rooms/21423421/photos
+    - text: "Flights"
+      href: https://www.google.com/flights
+    - icon: fa-brands fa-angellist
 output: distill::distill_article

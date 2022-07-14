@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Sean Patrick Duggan",
+      "description": "There will be some fun content added in this section, stay tuned!",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-14T13:33:15-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-14T15:15:02-04:00"
     },
     {
       "path": "index.html",
-      "title": "Sean's Bachelor Party",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "P-A-R-T-WHY?...B'cuz we gotta",
+      "description": "HEY GUYS, YOU READY TO LET THE DOG'S OUT???\n\nLet's celebrate Sean's upcoming nuptials in the great state of South Carolina, specifically Kiawah Island, where the intinerary is golf, golf, black out, more golf and the occassional nap.\n\nCheck back here for updates. But first, availability. We are looking at the following weeks;\n\n-week of March 2nd thru March 5th\n\n-week of March 12th thru March 15th (March Madness) \n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-14T13:33:17-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-14T15:15:05-04:00"
     }
   ],
   "collections": []
